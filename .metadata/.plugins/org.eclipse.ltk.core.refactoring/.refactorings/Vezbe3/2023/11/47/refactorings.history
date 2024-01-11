@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 7 elements to &apos;Test/src&apos;&#x0D;&#x0A;- Original project: &apos;Vezbe3&apos;&#x0D;&#x0A;- Destination element: &apos;Test/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     HlebPP.java&#x0D;&#x0A;     PovrcePP.java&#x0D;&#x0A;     Main.java&#x0D;&#x0A;     Restoran.java&#x0D;&#x0A;     TofuPP.java&#x0D;&#x0A;     PorudzbinaPP.java&#x0D;&#x0A;     PotazPP.java" description="Copy files" destination="=Test/src" element1="src/HlebPP.java" element2="src/PovrcePP.java" element3="src/Main.java" element4="src/Restoran.java" element5="src/TofuPP.java" element6="src/PorudzbinaPP.java" element7="src/PotazPP.java" files="7" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1700851552863" units="0" version="1.0"/>
+</session>
